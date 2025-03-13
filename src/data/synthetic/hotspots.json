@@ -1,0 +1,162 @@
+[
+  {
+    "id": "obesity_hotspot_1",
+    "position": [
+      24.503184428561458,
+      54.61476774130945
+    ],
+    "radius": 701.0722109933661,
+    "type": "obesity",
+    "name": "Yas Island Obesity Hotspot",
+    "insights": [
+      "This area has an obesity rate 7% higher than the city average.",
+      "Only 25% of residents report regular physical activity."
+    ],
+    "riskLevel": "high",
+    "district": "Yas Island"
+  },
+  {
+    "id": "obesity_hotspot_2",
+    "position": [
+      24.464030485728117,
+      54.34980715246225
+    ],
+    "radius": 476.93372852623463,
+    "type": "obesity",
+    "name": "Al Khalidiyah Obesity Hotspot",
+    "insights": [
+      "This area has an obesity rate 10% higher than the city average.",
+      "Only 16% of residents report regular physical activity."
+    ],
+    "riskLevel": "high",
+    "district": "Al Khalidiyah"
+  },
+  {
+    "id": "obesity_hotspot_3",
+    "position": [
+      24.503673502228118,
+      54.398203045782644
+    ],
+    "radius": 764.0061945759297,
+    "type": "obesity",
+    "name": "Al Maryah Island Obesity Hotspot",
+    "insights": [
+      "This area has an obesity rate 4% higher than the city average.",
+      "48% of residents report regular physical activity."
+    ],
+    "riskLevel": "medium",
+    "district": "Al Maryah Island"
+  },
+  {
+    "id": "obesity_hotspot_4",
+    "position": [
+      24.488027467357142,
+      54.36223874661683
+    ],
+    "radius": 392.4041451956406,
+    "type": "obesity",
+    "name": "Al Danah Obesity Hotspot",
+    "insights": [
+      "This area has an obesity rate 3% higher than the city average.",
+      "48% of residents report regular physical activity."
+    ],
+    "riskLevel": "medium",
+    "district": "Al Danah"
+  },
+  {
+    "id": "obesity_hotspot_5",
+    "position": [
+      24.494560492725103,
+      54.39101787068769
+    ],
+    "radius": 697.5715633943994,
+    "type": "obesity",
+    "name": "Al Maryah Island Obesity Hotspot",
+    "insights": [
+      "This area has an obesity rate close to the city average.",
+      "52% of residents report regular physical activity."
+    ],
+    "riskLevel": "low",
+    "district": "Al Maryah Island"
+  },
+  {
+    "id": "screening_hotspot_1",
+    "position": [
+      24.4884598967241,
+      54.36919864077221
+    ],
+    "radius": 739.5904315449093,
+    "type": "screening",
+    "name": "Al Danah Screening Hotspot",
+    "insights": [
+      "This area has a low screening participation rate of only 35%.",
+      "There are approximately 267 eligible individuals who have not been screened."
+    ],
+    "riskLevel": "high",
+    "district": "Al Danah"
+  },
+  {
+    "id": "screening_hotspot_2",
+    "position": [
+      24.47356944106165,
+      54.35825244952125
+    ],
+    "radius": 626.5177311055186,
+    "type": "screening",
+    "name": "Al Khalidiyah Screening Hotspot",
+    "insights": [
+      "This area has a low screening participation rate of only 23%.",
+      "There are approximately 141 eligible individuals who have not been screened."
+    ],
+    "riskLevel": "high",
+    "district": "Al Khalidiyah"
+  },
+  {
+    "id": "screening_hotspot_3",
+    "position": [
+      24.459812528969834,
+      54.32783063541205
+    ],
+    "radius": 749.16807947486,
+    "type": "screening",
+    "name": "Al Bateen Screening Hotspot",
+    "insights": [
+      "This area has a moderate screening participation rate of 47%.",
+      "There are approximately 53 eligible individuals who have not been screened."
+    ],
+    "riskLevel": "medium",
+    "district": "Al Bateen"
+  },
+  {
+    "id": "screening_hotspot_4",
+    "position": [
+      24.507864942039472,
+      54.401599632142236
+    ],
+    "radius": 634.7538815460446,
+    "type": "screening",
+    "name": "Al Reem Island Screening Hotspot",
+    "insights": [
+      "This area has a moderate screening participation rate of 50%.",
+      "There are approximately 69 eligible individuals who have not been screened."
+    ],
+    "riskLevel": "medium",
+    "district": "Al Reem Island"
+  },
+  {
+    "id": "screening_hotspot_5",
+    "position": [
+      24.538840291103845,
+      54.42542963085928
+    ],
+    "radius": 500.2866670819941,
+    "type": "screening",
+    "name": "Saadiyat Island Screening Hotspot",
+    "insights": [
+      "This area has a good screening participation rate of 56%.",
+      "There are approximately 28 eligible individuals who have not been screened."
+    ],
+    "riskLevel": "low",
+    "district": "Saadiyat Island"
+  }
+]

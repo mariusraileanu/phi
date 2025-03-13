@@ -1,0 +1,82 @@
+[
+  {
+    "id": "campaign_1",
+    "name": "Mental Health Awareness",
+    "description": "Campaign to raise awareness about mental health issues",
+    "startDate": "2025-01-15",
+    "endDate": "2025-04-15",
+    "districts": [
+      "Corniche",
+      "Saadiyat Island",
+      "Al Danah",
+      "Al Reem Island",
+      "Al Mushrif"
+    ],
+    "type": "awareness"
+  },
+  {
+    "id": "campaign_2",
+    "name": "One Billion Steps Challenge",
+    "description": "Community fitness challenge to promote physical activity",
+    "startDate": "2025-02-01",
+    "endDate": "2025-05-01",
+    "districts": [
+      "Al Danah",
+      "Al Bateen",
+      "Corniche",
+      "Al Mushrif",
+      "Al Reem Island",
+      "Al Zahiyah",
+      "Yas Island"
+    ],
+    "type": "fitness"
+  },
+  {
+    "id": "campaign_3",
+    "name": "Diabetes Prevention Program",
+    "description": "Educational campaign for diabetes prevention",
+    "startDate": "2025-03-10",
+    "endDate": "2025-06-10",
+    "districts": [
+      "Yas Island",
+      "Al Zahiyah",
+      "Al Reem Island",
+      "Corniche",
+      "Al Maryah Island",
+      "Al Khalidiyah"
+    ],
+    "type": "education"
+  },
+  {
+    "id": "campaign_4",
+    "name": "Cancer Screening Drive",
+    "description": "Initiative to increase participation in cancer screening",
+    "startDate": "2025-02-15",
+    "endDate": "2025-05-15",
+    "districts": [
+      "Al Zahiyah",
+      "Al Danah",
+      "Al Mushrif",
+      "Al Bateen",
+      "Al Khalidiyah",
+      "Corniche",
+      "Yas Island",
+      "Al Maryah Island"
+    ],
+    "type": "screening"
+  },
+  {
+    "id": "campaign_5",
+    "name": "Healthy Eating Initiative",
+    "description": "Program to promote nutritious eating habits",
+    "startDate": "2025-01-20",
+    "endDate": "2025-04-20",
+    "districts": [
+      "Yas Island",
+      "Al Mushrif",
+      "Saadiyat Island",
+      "Corniche"
+    ],
+    "type": "nutrition"
+  }
+]

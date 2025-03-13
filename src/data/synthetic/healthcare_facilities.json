@@ -1,0 +1,717 @@
+[
+  {
+    "id": "hospital_1",
+    "name": "Corniche General Hospital",
+    "type": "hospital",
+    "position": [
+      24.456580496839457,
+      54.33246493954546
+    ],
+    "district": "Corniche",
+    "description": "A hospital facility in Corniche"
+  },
+  {
+    "id": "hospital_2",
+    "name": "Medical Center 2",
+    "type": "hospital",
+    "position": [
+      24.4760634213462,
+      54.366592757475075
+    ],
+    "district": "Al Khalidiyah",
+    "description": "A hospital facility in Al Khalidiyah"
+  },
+  {
+    "id": "hospital_3",
+    "name": "Medical Center 3",
+    "type": "hospital",
+    "position": [
+      24.54033448397719,
+      54.43333234194273
+    ],
+    "district": "Saadiyat Island",
+    "description": "A hospital facility in Saadiyat Island"
+  },
+  {
+    "id": "hospital_4",
+    "name": "Al Danah General Hospital",
+    "type": "hospital",
+    "position": [
+      24.480921856905216,
+      54.36337951942594
+    ],
+    "district": "Al Danah",
+    "description": "A hospital facility in Al Danah"
+  },
+  {
+    "id": "hospital_5",
+    "name": "Medical Center 5",
+    "type": "hospital",
+    "position": [
+      24.498371864818377,
+      54.42122621240771
+    ],
+    "district": "Al Reem Island",
+    "description": "A hospital facility in Al Reem Island"
+  },
+  {
+    "id": "hospital_6",
+    "name": "Medical Center 6",
+    "type": "hospital",
+    "position": [
+      24.499714218125366,
+      54.40903058839405
+    ],
+    "district": "Al Reem Island",
+    "description": "A hospital facility in Al Reem Island"
+  },
+  {
+    "id": "hospital_7",
+    "name": "Al Maryah Island General Hospital",
+    "type": "hospital",
+    "position": [
+      24.480252065134003,
+      54.400053719395636
+    ],
+    "district": "Al Maryah Island",
+    "description": "A hospital facility in Al Maryah Island"
+  },
+  {
+    "id": "hospital_8",
+    "name": "Medical Center 8",
+    "type": "hospital",
+    "position": [
+      24.48620643829574,
+      54.377195144683505
+    ],
+    "district": "Al Danah",
+    "description": "A hospital facility in Al Danah"
+  },
+  {
+    "id": "clinic_1",
+    "name": "Al Maryah Island Clinic",
+    "type": "clinic",
+    "position": [
+      24.5080237103207,
+      54.37005494342251
+    ],
+    "district": "Al Maryah Island",
+    "description": "A clinic facility in Al Maryah Island"
+  },
+  {
+    "id": "clinic_2",
+    "name": "Health Center 2",
+    "type": "clinic",
+    "position": [
+      24.484137695151215,
+      54.37471299010811
+    ],
+    "district": "Al Zahiyah",
+    "description": "A clinic facility in Al Zahiyah"
+  },
+  {
+    "id": "clinic_3",
+    "name": "Health Center 3",
+    "type": "clinic",
+    "position": [
+      24.46381081281445,
+      54.33184545302226
+    ],
+    "district": "Corniche",
+    "description": "A clinic facility in Corniche"
+  },
+  {
+    "id": "clinic_4",
+    "name": "Al Reem Island Clinic",
+    "type": "clinic",
+    "position": [
+      24.483769184525354,
+      54.40215902791064
+    ],
+    "district": "Al Reem Island",
+    "description": "A clinic facility in Al Reem Island"
+  },
+  {
+    "id": "clinic_5",
+    "name": "Health Center 5",
+    "type": "clinic",
+    "position": [
+      24.489136633891828,
+      54.4198826475265
+    ],
+    "district": "Al Reem Island",
+    "description": "A clinic facility in Al Reem Island"
+  },
+  {
+    "id": "clinic_6",
+    "name": "Health Center 6",
+    "type": "clinic",
+    "position": [
+      24.46538625943642,
+      54.36481381589091
+    ],
+    "district": "Al Khalidiyah",
+    "description": "A clinic facility in Al Khalidiyah"
+  },
+  {
+    "id": "clinic_7",
+    "name": "Al Mushrif Clinic",
+    "type": "clinic",
+    "position": [
+      24.45779559782449,
+      54.3938889491041
+    ],
+    "district": "Al Mushrif",
+    "description": "A clinic facility in Al Mushrif"
+  },
+  {
+    "id": "clinic_8",
+    "name": "Health Center 8",
+    "type": "clinic",
+    "position": [
+      24.506057286793588,
+      54.40168797342503
+    ],
+    "district": "Al Reem Island",
+    "description": "A clinic facility in Al Reem Island"
+  },
+  {
+    "id": "clinic_9",
+    "name": "Health Center 9",
+    "type": "clinic",
+    "position": [
+      24.437951620890345,
+      54.38911879886014
+    ],
+    "district": "Al Mushrif",
+    "description": "A clinic facility in Al Mushrif"
+  },
+  {
+    "id": "clinic_10",
+    "name": "Al Mushrif Clinic",
+    "type": "clinic",
+    "position": [
+      24.437473335725176,
+      54.396131024126376
+    ],
+    "district": "Al Mushrif",
+    "description": "A clinic facility in Al Mushrif"
+  },
+  {
+    "id": "clinic_11",
+    "name": "Health Center 11",
+    "type": "clinic",
+    "position": [
+      24.49791570258868,
+      54.38053344821414
+    ],
+    "district": "Al Zahiyah",
+    "description": "A clinic facility in Al Zahiyah"
+  },
+  {
+    "id": "clinic_12",
+    "name": "Health Center 12",
+    "type": "clinic",
+    "position": [
+      24.55738909556358,
+      54.43351579225097
+    ],
+    "district": "Saadiyat Island",
+    "description": "A clinic facility in Saadiyat Island"
+  },
+  {
+    "id": "clinic_13",
+    "name": "Saadiyat Island Clinic",
+    "type": "clinic",
+    "position": [
+      24.539894047706163,
+      54.422417750699154
+    ],
+    "district": "Saadiyat Island",
+    "description": "A clinic facility in Saadiyat Island"
+  },
+  {
+    "id": "clinic_14",
+    "name": "Health Center 14",
+    "type": "clinic",
+    "position": [
+      24.505240974703717,
+      54.39655702060123
+    ],
+    "district": "Al Reem Island",
+    "description": "A clinic facility in Al Reem Island"
+  },
+  {
+    "id": "clinic_15",
+    "name": "Health Center 15",
+    "type": "clinic",
+    "position": [
+      24.474952198519315,
+      54.331165887306106
+    ],
+    "district": "Al Bateen",
+    "description": "A clinic facility in Al Bateen"
+  },
+  {
+    "id": "gym_1",
+    "name": "Fitness Club 1",
+    "type": "gym",
+    "position": [
+      24.491982956415587,
+      54.38283111925003
+    ],
+    "district": "Al Maryah Island",
+    "description": "A gym facility in Al Maryah Island"
+  },
+  {
+    "id": "gym_2",
+    "name": "Fitness Club 2",
+    "type": "gym",
+    "position": [
+      24.509942977238477,
+      54.62129962802018
+    ],
+    "district": "Yas Island",
+    "description": "A gym facility in Yas Island"
+  },
+  {
+    "id": "gym_3",
+    "name": "Fitness Club 3",
+    "type": "gym",
+    "position": [
+      24.44963916132531,
+      54.40208342589808
+    ],
+    "district": "Al Mushrif",
+    "description": "A gym facility in Al Mushrif"
+  },
+  {
+    "id": "gym_4",
+    "name": "Fitness Club 4",
+    "type": "gym",
+    "position": [
+      24.47367745131422,
+      54.34318122960405
+    ],
+    "district": "Al Khalidiyah",
+    "description": "A gym facility in Al Khalidiyah"
+  },
+  {
+    "id": "gym_5",
+    "name": "Fitness Club 5",
+    "type": "gym",
+    "position": [
+      24.491282810777946,
+      54.61257363661245
+    ],
+    "district": "Yas Island",
+    "description": "A gym facility in Yas Island"
+  },
+  {
+    "id": "gym_6",
+    "name": "Fitness Club 6",
+    "type": "gym",
+    "position": [
+      24.448516518859048,
+      54.3600584067469
+    ],
+    "district": "Al Khalidiyah",
+    "description": "A gym facility in Al Khalidiyah"
+  },
+  {
+    "id": "gym_7",
+    "name": "Fitness Club 7",
+    "type": "gym",
+    "position": [
+      24.476932730635035,
+      54.35299479261442
+    ],
+    "district": "Al Bateen",
+    "description": "A gym facility in Al Bateen"
+  },
+  {
+    "id": "gym_8",
+    "name": "Fitness Club 8",
+    "type": "gym",
+    "position": [
+      24.456958030816185,
+      54.38329587977945
+    ],
+    "district": "Al Mushrif",
+    "description": "A gym facility in Al Mushrif"
+  },
+  {
+    "id": "gym_9",
+    "name": "Fitness Club 9",
+    "type": "gym",
+    "position": [
+      24.536564035189897,
+      54.42625114583048
+    ],
+    "district": "Saadiyat Island",
+    "description": "A gym facility in Saadiyat Island"
+  },
+  {
+    "id": "gym_10",
+    "name": "Fitness Club 10",
+    "type": "gym",
+    "position": [
+      24.510036309549385,
+      54.40576643137234
+    ],
+    "district": "Al Maryah Island",
+    "description": "A gym facility in Al Maryah Island"
+  },
+  {
+    "id": "gym_11",
+    "name": "Fitness Club 11",
+    "type": "gym",
+    "position": [
+      24.501027720649624,
+      54.38345685844723
+    ],
+    "district": "Al Danah",
+    "description": "A gym facility in Al Danah"
+  },
+  {
+    "id": "gym_12",
+    "name": "Fitness Club 12",
+    "type": "gym",
+    "position": [
+      24.45225820062372,
+      54.31139227323052
+    ],
+    "district": "Corniche",
+    "description": "A gym facility in Corniche"
+  },
+  {
+    "id": "gym_13",
+    "name": "Fitness Club 13",
+    "type": "gym",
+    "position": [
+      24.55293303755555,
+      54.43293110465782
+    ],
+    "district": "Saadiyat Island",
+    "description": "A gym facility in Saadiyat Island"
+  },
+  {
+    "id": "gym_14",
+    "name": "Fitness Club 14",
+    "type": "gym",
+    "position": [
+      24.450943590424444,
+      54.339293836687155
+    ],
+    "district": "Al Khalidiyah",
+    "description": "A gym facility in Al Khalidiyah"
+  },
+  {
+    "id": "gym_15",
+    "name": "Fitness Club 15",
+    "type": "gym",
+    "position": [
+      24.497072659510287,
+      54.606176069738304
+    ],
+    "district": "Yas Island",
+    "description": "A gym facility in Yas Island"
+  },
+  {
+    "id": "gym_16",
+    "name": "Fitness Club 16",
+    "type": "gym",
+    "position": [
+      24.502884001129758,
+      54.37248433289758
+    ],
+    "district": "Al Danah",
+    "description": "A gym facility in Al Danah"
+  },
+  {
+    "id": "gym_17",
+    "name": "Fitness Club 17",
+    "type": "gym",
+    "position": [
+      24.483692825731584,
+      54.41690148642243
+    ],
+    "district": "Al Reem Island",
+    "description": "A gym facility in Al Reem Island"
+  },
+  {
+    "id": "gym_18",
+    "name": "Fitness Club 18",
+    "type": "gym",
+    "position": [
+      24.471125117853813,
+      54.372455775223344
+    ],
+    "district": "Al Danah",
+    "description": "A gym facility in Al Danah"
+  },
+  {
+    "id": "gym_19",
+    "name": "Fitness Club 19",
+    "type": "gym",
+    "position": [
+      24.53206718478432,
+      54.42754282193543
+    ],
+    "district": "Saadiyat Island",
+    "description": "A gym facility in Saadiyat Island"
+  },
+  {
+    "id": "gym_20",
+    "name": "Fitness Club 20",
+    "type": "gym",
+    "position": [
+      24.447176247399664,
+      54.3761601110662
+    ],
+    "district": "Al Mushrif",
+    "description": "A gym facility in Al Mushrif"
+  },
+  {
+    "id": "park_1",
+    "name": "Saadiyat Island Park",
+    "type": "park",
+    "position": [
+      24.525194798578344,
+      54.43159051182042
+    ],
+    "district": "Saadiyat Island",
+    "description": "A park facility in Saadiyat Island"
+  },
+  {
+    "id": "park_2",
+    "name": "Green Space 2",
+    "type": "park",
+    "position": [
+      24.520772085883536,
+      54.412866206404665
+    ],
+    "district": "Saadiyat Island",
+    "description": "A park facility in Saadiyat Island"
+  },
+  {
+    "id": "park_3",
+    "name": "Green Space 3",
+    "type": "park",
+    "position": [
+      24.482017806875874,
+      54.400553483591864
+    ],
+    "district": "Al Maryah Island",
+    "description": "A park facility in Al Maryah Island"
+  },
+  {
+    "id": "park_4",
+    "name": "Al Reem Island Park",
+    "type": "park",
+    "position": [
+      24.521148168709484,
+      54.38965801701486
+    ],
+    "district": "Al Reem Island",
+    "description": "A park facility in Al Reem Island"
+  },
+  {
+    "id": "park_5",
+    "name": "Green Space 5",
+    "type": "park",
+    "position": [
+      24.48235437076685,
+      54.3895220624668
+    ],
+    "district": "Al Reem Island",
+    "description": "A park facility in Al Reem Island"
+  },
+  {
+    "id": "park_6",
+    "name": "Green Space 6",
+    "type": "park",
+    "position": [
+      24.45614336617651,
+      54.384747663690455
+    ],
+    "district": "Al Mushrif",
+    "description": "A park facility in Al Mushrif"
+  },
+  {
+    "id": "park_7",
+    "name": "Al Bateen Park",
+    "type": "park",
+    "position": [
+      24.47347981378531,
+      54.34920802875863
+    ],
+    "district": "Al Bateen",
+    "description": "A park facility in Al Bateen"
+  },
+  {
+    "id": "park_8",
+    "name": "Green Space 8",
+    "type": "park",
+    "position": [
+      24.509627984733736,
+      54.35183538121449
+    ],
+    "district": "Al Zahiyah",
+    "description": "A park facility in Al Zahiyah"
+  },
+  {
+    "id": "park_9",
+    "name": "Green Space 9",
+    "type": "park",
+    "position": [
+      24.47942825283941,
+      54.346245154600766
+    ],
+    "district": "Al Bateen",
+    "description": "A park facility in Al Bateen"
+  },
+  {
+    "id": "park_10",
+    "name": "Al Zahiyah Park",
+    "type": "park",
+    "position": [
+      24.50590908197483,
+      54.36075047809621
+    ],
+    "district": "Al Zahiyah",
+    "description": "A park facility in Al Zahiyah"
+  },
+  {
+    "id": "park_11",
+    "name": "Green Space 11",
+    "type": "park",
+    "position": [
+      24.47811134594758,
+      54.338656529671916
+    ],
+    "district": "Al Khalidiyah",
+    "description": "A park facility in Al Khalidiyah"
+  },
+  {
+    "id": "park_12",
+    "name": "Green Space 12",
+    "type": "park",
+    "position": [
+      24.453721771362687,
+      54.339331307829326
+    ],
+    "district": "Al Bateen",
+    "description": "A park facility in Al Bateen"
+  },
+  {
+    "id": "screening_1",
+    "name": "Cancer Screening Center 1",
+    "type": "screening",
+    "position": [
+      24.484595985536178,
+      54.39065734415864
+    ],
+    "district": "Al Reem Island",
+    "description": "A screening facility in Al Reem Island"
+  },
+  {
+    "id": "screening_2",
+    "name": "Cancer Screening Center 2",
+    "type": "screening",
+    "position": [
+      24.480077884204,
+      54.6116730046504
+    ],
+    "district": "Yas Island",
+    "description": "A screening facility in Yas Island"
+  },
+  {
+    "id": "screening_3",
+    "name": "Cancer Screening Center 3",
+    "type": "screening",
+    "position": [
+      24.477778358430854,
+      54.33493460348481
+    ],
+    "district": "Al Khalidiyah",
+    "description": "A screening facility in Al Khalidiyah"
+  },
+  {
+    "id": "screening_4",
+    "name": "Cancer Screening Center 4",
+    "type": "screening",
+    "position": [
+      24.553975564950147,
+      54.44283849443725
+    ],
+    "district": "Saadiyat Island",
+    "description": "A screening facility in Saadiyat Island"
+  },
+  {
+    "id": "screening_5",
+    "name": "Cancer Screening Center 5",
+    "type": "screening",
+    "position": [
+      24.511514392518414,
+      54.36524459228257
+    ],
+    "district": "Al Zahiyah",
+    "description": "A screening facility in Al Zahiyah"
+  },
+  {
+    "id": "screening_6",
+    "name": "Cancer Screening Center 6",
+    "type": "screening",
+    "position": [
+      24.449969011735607,
+      54.34124032773535
+    ],
+    "district": "Al Khalidiyah",
+    "description": "A screening facility in Al Khalidiyah"
+  },
+  {
+    "id": "screening_7",
+    "name": "Cancer Screening Center 7",
+    "type": "screening",
+    "position": [
+      24.542758158958776,
+      54.41633413837571
+    ],
+    "district": "Saadiyat Island",
+    "description": "A screening facility in Saadiyat Island"
+  },
+  {
+    "id": "screening_8",
+    "name": "Cancer Screening Center 8",
+    "type": "screening",
+    "position": [
+      24.50349711128626,
+      54.59145679921866
+    ],
+    "district": "Yas Island",
+    "description": "A screening facility in Yas Island"
+  },
+  {
+    "id": "screening_9",
+    "name": "Cancer Screening Center 9",
+    "type": "screening",
+    "position": [
+      24.5364466934867,
+      54.438044358128565
+    ],
+    "district": "Saadiyat Island",
+    "description": "A screening facility in Saadiyat Island"
+  },
+  {
+    "id": "screening_10",
+    "name": "Cancer Screening Center 10",
+    "type": "screening",
+    "position": [
+      24.488860551199597,
+      54.32950655866008
+    ],
+    "district": "Corniche",
+    "description": "A screening facility in Corniche"
+  }
+]
